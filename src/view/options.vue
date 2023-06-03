@@ -1,6 +1,7 @@
 <template>
   <div class="main_app">
-    <h1>Hello {{msg}}</h1>
+    <h1>Hello Welcome To {{msg}}</h1>
+    <div>Nothing needs to be configured.</div>
   </div>
 </template>
 
